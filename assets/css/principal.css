@@ -605,19 +605,6 @@ section#contact {
     background-repeat: no-repeat;
 }
 
-section#contact .section-heading {
-    color: #222;
-}
-
-section#contact .form-group {
-    margin-bottom: 25px;
-}
-
-section#contact .form-group input,
-section#contact .form-group textarea {
-    padding: 20px;
-}
-
 section#contact .form-group input.form-control {
     height: auto;
 }
