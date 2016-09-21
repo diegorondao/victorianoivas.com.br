@@ -1,0 +1,78 @@
+.text-color,a{
+	color:#363E48;
+}
+.color-bg{
+	background-color:#FFCC33;
+}
+.btn-color-ghost{
+	background:0 0;
+	color:#363E48;
+	border-color:#FFCC33;
+}
+.btn-color,.btn-color-ghost:hover{
+	background: #FFCC33; /*Laranja */
+    color: #363E48;      /*Cinza Azulado */
+    border-color: #FFCC33;
+}
+.btn-color:hover{
+	background:#fff;
+	color:#363E48;
+	border-color:#fff;
+}
+.btn-white{
+	color:#c0392b;
+}
+.navbar-nav>li>a.btn-signup{
+	background:#c0392b;
+	color:#fff;
+	border-color:#c0392b
+}
+.navbar-nav>li>a.btn-signup:focus,.navbar-nav>li>a.btn-signup:hover{
+	background:#fff;
+	color:#c0392b;
+	border-color:#fff
+}
+.preloader,.type .hero-section span{
+	background-color:#FFCC33
+}
+.solid-bg{
+	background:#c0392b
+}
+.navbar-nav>li>a.btn-white{
+	color:#c0392b
+}
+.form-control{
+	border:2px solid #fed136
+}
+.icon-lg:focus,.icon-lg:hover,.icon-sm:focus,.icon-sm:hover{
+	color:#FFCC33
+}
+.is-scrolling .navbar-nav>.active>a,.is-scrolling .navbar-nav>.active>a:focus,.is-scrolling .navbar-nav>.active>a:hover{
+color:#FFCC33;
+background-color:transparent
+}
+.login .modal-header .modal-title span{
+	font-weight:400;
+	color:#c0392b
+}
+.pricing-tab{
+	border:3px solid #cb6060
+}
+.pricing-tab h4{
+	border-bottom:3px solid #cb6060
+}
+.pricing-tab .ribbon .popular{
+	background-color:#c0392b
+}
+.team-img .img-icons span i:hover{
+	color:#c0392b
+}
+.signup-divider .form-control:focus{
+	border-color:#c0392b
+}
+.fast-reg .form-control:focus{
+	background-color:#c0392b;
+	border-color:#c0392b;
+	box-shadow:none
+}
+.footer a:hover{color:#FFCC33}
